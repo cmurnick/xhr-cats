@@ -1,0 +1,29 @@
+body {
+	background-color: lightblue;
+}
+
+.work {
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+img {
+	max-width: 250px;
+
+	max-height: 250px;
+	margin: 10px;
+
+
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+section {
+	border: 2px solid black;
+	margin: 15px;
+	min-width: 250px;
+}
